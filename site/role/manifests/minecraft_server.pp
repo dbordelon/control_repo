@@ -1,4 +1,4 @@
 class roles:: minecraft_server {
   include profile::base
-  include profile::minecrat
+  include profile::minecraft
 }
